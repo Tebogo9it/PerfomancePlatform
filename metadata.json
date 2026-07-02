@@ -1,0 +1,6 @@
+{
+  "name": "Gov Performance Platform",
+  "description": "An interactive Government Performance Tracking platform built on a project-centric domain architecture with Officer, Supervisor, and Citizen workflows, event-based progress updates, and Gemini AI-powered summaries and risk prediction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
